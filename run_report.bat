@@ -9,7 +9,7 @@ python generate_report.py
 
 echo.
 echo ----------------------------------------------------
-echo 2. Generating Renewals Comparative Dashboard & Web...
+echo 2. Generating Renewals Comparative Dashboard and Web...
 echo ----------------------------------------------------
 python generate_renewals_report.py
 
